@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> matches snapshot 1`] = `
+<div
+  className="App"
+>
+  <h1>
+    yes
+  </h1>
+</div>
+`;
+
+exports[`<App /> matches snapshot 2`] = `
+<div>
+  <div
+    class="App"
+  >
+    <h1 />
+  </div>
+</div>
+`;
